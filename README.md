@@ -1,4 +1,4 @@
-**Animated Template Readme**
+**Animated Template**
 
 ---
 
@@ -41,10 +41,11 @@ To use this template effectively:
 
 ## Credits
 
-- **Creative Tim**: For providing the Tailwind Starter Kit used as the foundation for this template.
-- **Font Awesome**: For offering a wide range of high-quality icons used in the template.
-- **Randomuser.me and Unsplash**: For providing royalty-free images to enhance the visual appeal of the presentation.
-- **Michal Sajnóg**: For developing the AOS library used for smooth animations.
-- **Google Web Fundamentals**: For providing best practices for optimizing content efficiency and loading third-party JavaScript.
+- **[Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)**: For providing the Tailwind Starter Kit used as the foundation for this template.
+- **[Font Awesome](https://fontawesome.com/icons?d=gallery&q=close&m=free)**: For offering a wide range of high-quality icons used in the template.
+- **[Randomuser.me](https://randomuser.me/)**: A service that provides randomly generated user data, including names, email addresses, and profile pictures, used to simulate user profiles in the template.
+- **[Unsplash](https://unsplash.com/)**: A platform for freely usable images, used to source high-quality, royalty-free images to enhance the visual appeal of the presentation.
+- **[Michal Sajnóg](https://michalsnik.github.io/aos/)**: For developing the AOS library used for smooth animations.
+- **[Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript)**: For providing best practices for optimizing content efficiency and loading third-party JavaScript.
 
 Feel free to reach out if you have any questions or need further assistance with customizing or using this template. Enjoy creating stunning presentations with ease!
