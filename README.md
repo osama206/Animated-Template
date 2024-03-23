@@ -39,6 +39,10 @@ To use this template effectively:
 - Test the presentation across different devices to ensure responsiveness.
 - Optimize performance by minimizing unnecessary scripts and assets.
 
+## Demo
+
+Check out the [demo](https://osama206.github.io/Animated-Template/) to see the template in action.
+
 ## Credits
 
 - **[Creative Tim](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)**: For providing the Tailwind Starter Kit used as the foundation for this template.
