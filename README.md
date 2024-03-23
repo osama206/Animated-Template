@@ -41,7 +41,7 @@ To use this template effectively:
 
 ## Demo
 
-Check out the [demo](https://osama206.github.io/Animated-Template/) to see the template in action.
+Check out the [demo](https://osama206.github.io/animated-template/) to see the template in action.
 
 ## Credits
 
